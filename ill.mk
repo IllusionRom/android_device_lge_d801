@@ -23,4 +23,4 @@ PRIVATE_BUILD_DESC="g2_tmo_us-user 4.2.2 JDQ39B D80110c.1376399304 release-keys"
 
 # bootanimation
 PRODUCT_COPY_FILES += \
-        vendor/illusion/bootanimation/Illusion768x768.zip:system/media/bootanimation.zip
+        vendor/illusion/bootanimation/1080x1920.zip:system/media/bootanimation.zip
